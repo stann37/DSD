@@ -9,16 +9,16 @@ The projects are implemented in **Verilog**, covering fundamental digital module
 
 - **HW1:**  
   - ALU (assign & always)  
-  - Register File
+  - Register file
 
 - **HW2:**  
   - RISC-V single-cycle implementation
 
 - **HW3:**  
-  - Direct-Mapped and 2-Way Set Associative Cache
+  - Direct-mapped and 2-way set associative cache
 
 - **Final Project:**  
-  - Multi-pipeline RISC-V Core with hazard detection & forwarding
+  - Multi-pipeline RISC-V core with hazard detection & forwarding
   - Supports compressed instructions (RVC)  
   - Supports multiplication instructions
   - Instruction & data cache

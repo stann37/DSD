@@ -5,22 +5,6 @@ The projects are implemented in **Verilog**, covering fundamental digital module
 
 ---
 
-## Repository Overview
-
-DSD/
-
-├── HW1/ # Basic Verilog modules (ALU, Register File)
-
-├── HW2/ # Single-cycle RISC-V Core
-
-├── HW3/ # Cache design (direct-mapped & 2-way set associative)
-
-├── Final/ # Final Project: Multi-cycle RISC-V Core with RVC + multiplication support
-
-└── README.md
-
----
-
 ## Contents
 
 - **HW1:**  
